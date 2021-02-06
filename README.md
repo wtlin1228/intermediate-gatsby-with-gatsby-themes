@@ -1,6 +1,7 @@
 # Intermediate Gatsby
 
 Course Repo: https://github.com/wtlin1228/gatsby-intermediate
+
 Course Slide: https://jlengstorf.github.io/presentations/fem-gatsby-intermediate/#/
 
 ## How to run it quickly
